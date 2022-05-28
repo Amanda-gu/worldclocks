@@ -20,7 +20,7 @@ function setup() {
 
 function draw() {
   createCanvas(windowWidth, windowHeight, WEBGL);
-  textSize(300);
+  textSize(200);
   background(255,255);
 
   var sec = second();
